@@ -1,12 +1,11 @@
-Hellow there, this is Miguel!
+Hello there, this is Miguel!
 
-I'm a developer always improving myself who like help anyone who needs
+Ever-learning software developer, always looking for new ways to improve and who loves helping anyone in need.
 
-<!-- banner? -->
-
-- 💪  I’m currently working on my final degree project. 
-- 👀  I’m currently learning android and kotlin
-- 📚  I have done some java proyects and course for new java developers
+- 💪 Currently working on my undergraduate final dissertation
+- 👀 Learning Android and Kotlin
+- 🛠 Experience in Java and Java EE
+- 📚 I have taugth introductory lessons about Java and software design for new coming developers
 
 ## Profesional Skills:
 
