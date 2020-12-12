@@ -14,7 +14,7 @@ Ever-learning software developer, always looking for new ways to improve and who
  - SQL (MySQL, SQLite)
  - Microsoft Office (Word, Excel, PowerPoint...) 
  - Linux (scripts, c, .bash)
- - Scrum (Scrum master)
+ - Scrum (Scrum Manager lvl Expert/150)
  
 ## Personal Skills: 
 
