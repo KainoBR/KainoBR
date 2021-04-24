@@ -15,14 +15,7 @@ Ever-learning software developer, always looking for new ways to improve and who
  - Microsoft Office (Word, Excel, PowerPoint...) 
  - Linux (scripts, c, .bash)
  - Scrum (Scrum Manager lvl Expert/150)
- 
-## Personal Skills: 
-
- - Punctual 
- - Self-taught
- - Sociable 
-<!-- teamwork? work hard?-->
-
+ - 
 ## Find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Berciano-0077B5??style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-%C3%A1ngel-berciano-rodr%C3%ADguez-2ba965163) 
