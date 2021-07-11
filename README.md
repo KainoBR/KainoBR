@@ -2,7 +2,7 @@ Hello there, this is Miguel!
 
 Ever-learning software developer, always looking for new ways to improve and who loves helping anyone in need.
 
-- 💪 Currently working on my undergraduate final dissertation
+- 💪 Currently working on my final degree project
 - 👀 Learning Android and Kotlin
 - 🛠 Experience in Java and Java EE
 - 📚 I have taugth introductory lessons about Java and software design for new coming developers
