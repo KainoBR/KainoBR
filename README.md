@@ -2,7 +2,6 @@ Hello there, this is Miguel!
 
 Ever-learning software developer, always looking for new ways to improve and who loves helping anyone in need.
 
-- 💪 Currently working on my final degree project
 - 👀 Learning Android and Kotlin
 - 🛠 Experience in Java and Java EE
 - 📚 I have taugth introductory lessons about Java and software design for new coming developers
@@ -15,7 +14,7 @@ Ever-learning software developer, always looking for new ways to improve and who
  - Microsoft Office (Word, Excel, PowerPoint...) 
  - Linux (scripts, c, .bash)
  - Scrum (Scrum Manager lvl Expert/150)
- - 
+
 ## Find me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Berciano-0077B5??style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-%C3%A1ngel-berciano-rodr%C3%ADguez-2ba965163) 
