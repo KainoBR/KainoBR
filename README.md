@@ -14,6 +14,7 @@ Ever-learning software developer, always looking for new ways to improve and who
  - Microsoft Office (Word, Excel, PowerPoint...) 
  - Linux (scripts, c, .bash)
  - Scrum (Scrum Manager lvl Expert/150)
+ - Angular
 
 ## Find me:
 
