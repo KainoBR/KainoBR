@@ -13,7 +13,7 @@ Ever-learning software developer, always looking for new ways to improve and who
  - SQL (MySQL, SQLite)
  - Microsoft Office (Word, Excel, PowerPoint...) 
  - Linux (scripts, c, .bash)
- - Scrum (Scrum Manager lvl Expert/150)
+ - Scrum (Scrum Manager lvl Expert/120)
  - Angular
 
 ## Find me:
